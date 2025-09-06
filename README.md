@@ -48,9 +48,10 @@ game can be enjoyed on almost any PC (And later any plataform).
 
    * Stats and Inventory
 
-     + Lore, wisdom, perseption, moralty, fame and time can affect the choices avaliable for the player,
-     events and quests that can be found and compleated. (This is more a personal wish than a promise.
-     I sincerly don't know if my programing skills can achive this or ever will).
+     + Lore, wisdom, perseption, moralty, fame and time can affect the choices avaliable for
+     the player, events and quests that can be found and compleated. (This is more a personal
+     wish than a promise. I sincerly don't know if my programing skills can achive this or
+     ever will).
      
    * Survivability
      + All PaC shares the same survival skill tree.
@@ -64,7 +65,7 @@ game can be enjoyed on almost any PC (And later any plataform).
        _Fishing
        _Hunting
        _Alchemy
-       _Navigation
+       _Navigation (Horse riding)
        _Cooking
        _Adaptability
      + 4 PaC start with at least 1 survival skill on lvl 3, cooking, adaptability and navigation on lvl 1.
@@ -82,8 +83,15 @@ game can be enjoyed on almost any PC (And later any plataform).
       sources.
     
     * Questing
-    
+      + A main quest will be avaliable to all PaC as the story develops and compleating it will show one of
+      the posible endings for the characters based on achivements and decitions made during the game.
+      + Community quests: All communities will have a main quest that will be asigned to the players by the
+      elders, capitains and the void. Achiving this quest milestones can afect aspects of the main quest, 
+      prices of stores or better bartering options, less restrictions on activities on certain areas, far
+      better chances at adquiring that community lore and hence adquiring side quests.
+      + Side Quests: These will be avaliable on all communities for all PaC but not all can be recived
+      depending on the character fame with that community.
+      
     * Community perseption
-
-    That last one only upgradable by completing quests or helping members of their selected/asigned allied comunity.
-
+      + Will show the player their social status with each community and the benefits of those relations.
+      + Might be a good idea to focus on just one though, choose wisely adventurer...
