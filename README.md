@@ -18,7 +18,7 @@ game can be enjoyed on almost any PC (And later any plataform).
 
    * Combat: 
      + Movement will stop momentarly when performing any action for all creatures, save for
-     certain character which will be able to perform distance basic attacks while moving but
+     certain character which will be able to perform distance basic atacks while moving but
      will have to collect ammo (max storage 1 - 6) during battle.
      + Save for special equipment or creatures, no damage will be recived or done upon contact
      with creatures or players.
@@ -32,7 +32,7 @@ game can be enjoyed on almost any PC (And later any plataform).
      corrupted during battle.
      + Each of the Playable Characters (PaC) will count with a unique combat skill tree with 15 
      active skills and 10 pasive skills.
-     + Through special attacks or by strong attacks of certain creatures the player can suffer
+     + Through special atacks or by strong atacks of certain creatures the player can suffer
      the following impairment states: Broken Bone on a body part (Arm, legs, chest, spine and
      head), entanglement, blindness, deafening, poisoning, corruption, burning and bleading.
      Save for broken spine and head most states can be: Either healed in battle with action
@@ -46,19 +46,26 @@ game can be enjoyed on almost any PC (And later any plataform).
      ritual of self purification outside combat (Unlockable skill).
 
 
-   * Stats and Inventory
+   * Stats
 
      + PaC's have 3 types of stats: Primary, Secondary, Lore. Primary stats recive a bonus for every Lvl up, and a important bonus every 10 Lvls. Stats points will be given that can be asigned before saving. 1 for every Lvl and 2 for every 10Lvls. Secondary stats cannot be modified by the player directly, they are influenced by primary and lore stats, equipment, buffs and skills. Lore Stats can be trained or modified by the player choices.
 
      + Character Primary Stats:
        _Strength: This stat will affect the damage a character can inflict either barehanded, with throwables impact or with weapons. It also influences the weapons that can be wielded efectibly, equiping weapons that can't be handled due to heaviness will lead to realy low damage blows. \n
-       _Constitution: This stat afects health, poison resistance, phisical resistance and stamina.
+       _Constitution: This stat afects health, poison resistance, phisical resistance, stamina, hunger and thirst.
        _Dexterity: This will afect damage for close range weapons, CQC Skills, and aim range for ranged weapons. Also afects critical strike chances
        _Inteligence: This influences the ability to retain and understand lore. It also influences the correct use of elements for combat, increasing elemental damge and critical strikes chances.
        _Wisdom: Afects the way a character can understand other creatures feelings, providing access to lore and taming. A lot of wisdom betters the chances of a character to increase it's spiritual affinity, but may result on rejection from certain NPC's.
        _Charisma: Afects the chances to recive better rewards or access to certain lore and quests. Can generate jealousy hence bloking access to certain quests.
 
      + Character Secondary Stats:
+       _Health
+       _Void
+       _Stamina
+       _Thirst
+       _Hunger
+       _Cold
+       _Heat
        _Critical Chance:
        _Taming chance:
        _Piercing Damage:
@@ -95,6 +102,12 @@ game can be enjoyed on almost any PC (And later any plataform).
      the player, events and quests that can be found and compleated. (This is more a personal
      wish than a promise. I sincerly don't know if my programing skills can achive this or
      ever will).
+
+   * Inventory
+     + Unless you have certain cat's dimentional pocket, I highly doubt you can carry an infinite amount of items, so pack wisely traveler.
+     + Clothes with pockets can hold small items in small quantyties and some supplys.
+     + Doble layering is allowed and will improve armor, but will affect movement and atack speed
+     + The way to greatly expand the item inventory is with pouches, backpacks, pushcarts and husbandry (Equiping a horse with a backpack). They come in diferent sizes and purposes but not all can be used everywhere.
      
    * Survivability and Combat Skill Trees
      + All PaC shares the same survival skill tree.
@@ -108,7 +121,7 @@ game can be enjoyed on almost any PC (And later any plataform).
        _Fishing
        _Hunting
        _Alchemy
-       _Navigation (Horse riding)
+       _Navigation (Husbandry)
        _Cooking
        _Adaptability
      + 4 PaC start with at least 1 survival skill on lvl 3, cooking, adaptability and navigation on lvl 1.
