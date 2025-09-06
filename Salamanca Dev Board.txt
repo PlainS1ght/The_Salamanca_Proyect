@@ -1,0 +1,47 @@
+==============================
+SALAMANCA DEVELOPMENT BOARD
+==============================
+
+1. Game Concept & Design
+	- [D] Define game genre and style
+	- [D] Write a short game summary
+	- [D] List main features and mechanics
+	- [ ] Create initial sketches or mockups
+
+2. Core Mechanics
+	- [ ] Player controls
+	
+3. Art & Assets
+	- [ ] Character designs
+	- [ ] Environment/backgrounds
+	- [ ] UI elements (menus, buttons)
+	- [ ] Animations
+
+4. Sound & Music
+	- [ ] Sound effects (SFX)
+	- [ ] Background music
+	- [ ] Voice acting (if needed)
+
+5. Programming Tasks
+	- [ ] Set up project structure
+	- [ ] Implement core gameplay loop
+	- [ ] Integrate assets
+	- [ ] Add UI functionality
+	- [ ] Save/load system
+
+6. Testing & Debugging
+	- [ ] Playtest core mechanics
+	- [ ] Fix major bugs
+	- [ ] Optimize performance
+	- [ ] Gather feedback
+
+7. Milestones & Deadlines
+	- [ ] Set key development milestones
+	- [ ] Assign deadlines for each phase
+	- [ ] Track progress regularly
+
+8. Release & Post-Launch
+	- [ ] Prepare for release (packaging, marketing)
+	- [ ] Launch game
+	- [ ] Collect user feedback
+	- [ ] Plan updates/patches
