@@ -51,52 +51,52 @@ game can be enjoyed on almost any PC (And later any plataform).
      + PaC's have 3 types of stats: Primary, Secondary, Lore. Primary stats recive a bonus for every Lvl up, and a important bonus every 10 Lvls. Stats points will be given that can be asigned before saving. 1 for every Lvl and 2 for every 10Lvls. Secondary stats cannot be modified by the player directly, they are influenced by primary and lore stats, equipment, buffs and skills. Lore Stats can be trained or modified by the player choices.
 
      + Character Primary Stats:
-       _Strength: This stat will affect the damage a character can inflict either barehanded, with throwables impact or with weapons. It also influences the weapons that can be wielded efectibly, equiping weapons that can't be handled due to heaviness will lead to realy low damage blows. \n
-       _Constitution: This stat afects health, poison resistance, phisical resistance, stamina, hunger and thirst.
-       _Dexterity: This will afect damage for close range weapons, CQC Skills, and aim range for ranged weapons. Also afects critical strike chances
-       _Inteligence: This influences the ability to retain and understand lore. It also influences the correct use of elements for combat, increasing elemental damge and critical strikes chances.
-       _Wisdom: Afects the way a character can understand other creatures feelings, providing access to lore and taming. A lot of wisdom betters the chances of a character to increase it's spiritual affinity, but may result on rejection from certain NPC's.
-       _Charisma: Afects the chances to recive better rewards or access to certain lore and quests. Can generate jealousy hence bloking access to certain quests.
+       1. Strength: This stat will affect the damage a character can inflict either barehanded, with throwables impact or with weapons. It also influences the weapons that can be wielded efectibly, equiping weapons that can't be handled due to heaviness will lead to realy low damage blows. \n
+       2. Constitution: This stat afects health, poison resistance, phisical resistance, stamina, hunger and thirst.
+       3. Dexterity: This will afect damage for close range weapons, CQC Skills, and aim range for ranged weapons. Also afects critical strike chances
+       4. Inteligence: This influences the ability to retain and understand lore. It also influences the correct use of elements for combat, increasing elemental damge and critical strikes chances.
+       5. Wisdom: Afects the way a character can understand other creatures feelings, providing access to lore and taming. A lot of wisdom betters the chances of a character to increase it's spiritual affinity, but may result on rejection from certain NPC's.
+       6. Charisma: Afects the chances to recive better rewards or access to certain lore and quests. Can generate jealousy hence bloking access to certain quests.
 
      + Character Secondary Stats:
-       _Health
-       _Void
-       _Stamina
-       _Thirst
-       _Hunger
-       _Cold
-       _Heat
-       _Critical Chance:
-       _Taming chance:
-       _Piercing Damage:
-       _Slashing Damage: 
-       _Blunt Damage:
-       _Fire Damage:
-       _Water Damage:
-       _Poison Damage:
-       _Light Damage: 
-       _Corruption Damage:
-       _Electrical Damage:
-       _Sand Damage:
-       _Piercing Resistance:
-       _Slashing Resistance: 
-       _Blunt Resistance:
-       _Fire Resistance:
-       _Water Resistance:
-       _Poison Resistance:
-       _Light Resistance: 
-       _Corruption Resistance:
-       _Electrical Resistance:
-       _Sand Resistance:
+       1. Health
+       2. Void
+       3. Stamina
+       4. Thirst
+       5. Hunger
+       6. Cold
+       7. Heat
+       8. Critical Chance:
+       9. Taming chance:
+       10. Piercing Damage:
+       11. Slashing Damage: 
+       12. Blunt Damage:
+       13. Fire Damage:
+       14. Water Damage:
+       15. Poison Damage:
+       16. Light Damage: 
+       17. Corruption Damage:
+       18. Electrical Damage:
+       19. Sand Damage:
+       20. Piercing Resistance:
+       21. Slashing Resistance: 
+       22. Blunt Resistance:
+       23. Fire Resistance:
+       24. Water Resistance:
+       25. Poison Resistance:
+       26. Light Resistance: 
+       27. Corruption Resistance:
+       28. Electrical Resistance:
+       29. Sand Resistance:
 
      + Character Lore Stats:
-       _Morality: Desperation or greed can lead to moraly deranged choices. The questions are "how far are you willing to go?" and "will you be able to stop?". Afects spiritual, and corruption afinity. Can triguer certain quests on all communities.
-       _Perception: The more an isue, the enviroment or people are stuided the more strange things may be noticed. Influences the chance to notice traps, to gather lore or quests, and survivavilty skills. You might find that some things are better left unfound...
-       _Spiritual Affinity: Nature voice could be heard loud and strong in older days, with right mentality and masters, you might be able to hear it too. Increases corruption resistance, taming chance, access to some quests and special items.
-       _Theological Affinity: The words of the lord has reached new lands, and those willing to hear it can be found anywhere. Hearing and imparting those words can heal and guide the lost souls. Remember though, there is only one lord of the heavens. Can unlock certain quests and access to special items. This affinity lowers taming chance on all creatures.
-       _Corruption Affinity: Not all paths can be found within nature, and skill is needed to transit the places where light cannot reach. Sometimes, sacrifices must be made to move foward, can you handle the gilt? This affinity allows access to some quests, some tamings and shady/creapy shops.
-       _Fears: Only by facing onself and moving foward can a person be called coragious. Can you surpass that which scares you or will you freeze at it's mere sight? only time will tell. Constant debuff when fighting certain creatures or circumstances. Can be changed into buffs by completing unique quests.
-       _Encoragements: Fighting by your lonesome can be cool, but friends only make you stronger. Buffs the player when fighting near allies or tamed creatures, can turn into a debuff if allies die before you.
+       1. Morality: Desperation or greed can lead to moraly deranged choices. The questions are "how far are you willing to go?" and "will you be able to stop?". Afects spiritual, and corruption afinity. Can triguer certain quests on all communities.
+       2. Perception: The more an isue, the enviroment or people are stuided the more strange things may be noticed. Influences the chance to notice traps, to gather lore or quests, and survivavilty skills. You might find that some things are better left unfound...
+       3. Spiritual Affinity: Nature voice could be heard loud and strong in older days, with right mentality and masters, you might be able to hear it too. Increases corruption resistance, taming chance, access to some quests and special items.
+       4. Theological Affinity: The words of the lord has reached new lands, and those willing to hear it can be found anywhere. Hearing and imparting those words can heal and guide the lost souls. Remember though, there is only one lord of the heavens. Can unlock certain quests and access to special items. This affinity lowers taming chance on all creatures.
+       5. Corruption Affinity: Not all paths can be found within nature, and skill is needed to transit the places where light cannot reach. Sometimes, sacrifices must be made to move foward, can you handle the gilt? This affinity allows access to some quests, some tamings and shady/creapy shops.
+       6. Fears: Only by facing onself and moving foward can a person be called coragious. Can you surpass that which scares you or will you freeze at it's mere sight? only time will tell. Constant debuff when fighting certain creatures or circumstances. Can be changed into buffs by completing unique quests.
+       7. Encoragements: Fighting by your lonesome can be cool, but friends only make you stronger. Buffs the player when fighting near allies or tamed creatures, can turn into a debuff if allies die before you.
 
      + Lore, wisdom, perseption, moralty, fame and time can affect the choices avaliable for
      the player, events and quests that can be found and compleated. (This is more a personal
@@ -117,29 +117,29 @@ game can be enjoyed on almost any PC (And later any plataform).
      + Creating and filling a log book can improve chances of learning or upgrading survival
      skills.
      + The skills are as follows:
-       _Botany
-       _Fishing
-       _Hunting
-       _Alchemy
-       _Navigation (Husbandry)
-       _Cooking
-       _Adaptability
+       1. Botany
+       2. Fishing
+       3. Hunting
+       4. Alchemy
+       5. Navigation (Husbandry)
+       6. Cooking
+       7. Adaptability
      + 4 PaC start with at least 1 survival skill on lvl 3, cooking, adaptability and navigation on lvl 1.
      And the last character will start with a special survival skill tree.
      + Combat Skill Tree Will have the following skills (Will be adjusted)
-       _Lance and Pole Skill:
-       _Axes Skill:
-       _Knives Skill:
-       _Sword Skill:
-       _Dual Wielding Skill:
-       _Shield Skill:
-       _Parring Skill:
-       _Bow and Slingshot Skill
-       _Crossbow Skill:
-       _Gun Skill:
-       _Throwing skill:
-       _Roll/Dash Skill:
-       _
+       1. Lance and Pole Skill:
+       2. Axes Skill:
+       3. Knives Skill:
+       4. Sword Skill:
+       5. Dual Wielding Skill:
+       6. Shield Skill:
+       7. Parring Skill:
+       8. Bow and Slingshot Skill
+       9. Crossbow Skill:
+       10. Gun Skill:
+       11. Throwing skill:
+       12. Roll/Dash Skill:
+       13. 
        
 
     * Lore
