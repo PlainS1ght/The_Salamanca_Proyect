@@ -1,4 +1,35 @@
- [ ]Character
+ [ ]Characters
+    - PaC:
+      * Documentary speaker
+        + Name:
+        + Personality:
+        + Lore:
+        + Base Stats:
+
+      * Cameraman
+        + Name:
+        + Personality:
+        + Lore:
+        + Base Stats:
+
+      * Writer
+        + Name:
+        + Personality:
+        + Lore:
+        + Base Stats:
+
+      * Camera assistant
+        + Name:
+        + Personality:
+        + Lore:
+        + Base Stats:
+
+      * Local Guide
+        + Name:
+        + Personality:
+        + Lore:
+        + Base Stats:
+
  [ ]Story
  [ ]Enviroments
  [ ]Communities

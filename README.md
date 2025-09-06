@@ -48,12 +48,55 @@ game can be enjoyed on almost any PC (And later any plataform).
 
    * Stats and Inventory
 
+     + PaC's have 3 types of stats: Primary, Secondary, Lore. Primary stats recive a bonus for every Lvl up, and a important bonus every 10 Lvls. Stats points will be given that can be asigned before saving. 1 for every Lvl and 2 for every 10Lvls. Secondary stats cannot be modified by the player directly, they are influenced by primary and lore stats, equipment, buffs and skills. Lore Stats can be trained or modified by the player choices.
+
+     + Character Primary Stats:
+       _Strength: This stat will affect the damage a character can inflict either barehanded, with throwables impact or with weapons. It also influences the weapons that can be wielded efectibly, equiping weapons that can't be handled due to heaviness will lead to realy low damage blows. \n
+       _Constitution: This stat afects health, poison resistance, phisical resistance and stamina.
+       _Dexterity: This will afect damage for close range weapons, CQC Skills, and aim range for ranged weapons. Also afects critical strike chances
+       _Inteligence: This influences the ability to retain and understand lore. It also influences the correct use of elements for combat, increasing elemental damge and critical strikes chances.
+       _Wisdom: Afects the way a character can understand other creatures feelings, providing access to lore and taming. A lot of wisdom betters the chances of a character to increase it's spiritual affinity, but may result on rejection from certain NPC's.
+       _Charisma: Afects the chances to recive better rewards or access to certain lore and quests. Can generate jealousy hence bloking access to certain quests.
+
+     + Character Secondary Stats:
+       _Critical Chance:
+       _Taming chance:
+       _Piercing Damage:
+       _Slashing Damage: 
+       _Blunt Damage:
+       _Fire Damage:
+       _Water Damage:
+       _Poison Damage:
+       _Light Damage: 
+       _Corruption Damage:
+       _Electrical Damage:
+       _Sand Damage:
+       _Piercing Resistance:
+       _Slashing Resistance: 
+       _Blunt Resistance:
+       _Fire Resistance:
+       _Water Resistance:
+       _Poison Resistance:
+       _Light Resistance: 
+       _Corruption Resistance:
+       _Electrical Resistance:
+       _Sand Resistance:
+
+     + Character Lore Stats:
+       _Morality: Desperation or greed can lead to moraly deranged choices. The questions are "how far are you willing to go?" and "will you be able to stop?". Afects spiritual, and corruption afinity. Can triguer certain quests on all communities.
+       _Perception: The more an isue, the enviroment or people are stuided the more strange things may be noticed. Influences the chance to notice traps, to gather lore or quests, and survivavilty skills. You might find that some things are better left unfound...
+       _Spiritual Affinity: Nature voice could be heard loud and strong in older days, with right mentality and masters, you might be able to hear it too. Increases corruption resistance, taming chance, access to some quests and special items.
+       _Theological Affinity: The words of the lord has reached new lands, and those willing to hear it can be found anywhere. Hearing and imparting those words can heal and guide the lost souls. Remember though, there is only one lord of the heavens. Can unlock certain quests and access to special items. This affinity lowers taming chance on all creatures.
+       _Corruption Affinity: Not all paths can be found within nature, and skill is needed to transit the places where light cannot reach. Sometimes, sacrifices must be made to move foward, can you handle the gilt? This affinity allows access to some quests, some tamings and shady/creapy shops.
+       _Fears: Only by facing onself and moving foward can a person be called coragious. Can you surpass that which scares you or will you freeze at it's mere sight? only time will tell. Constant debuff when fighting certain creatures or circumstances. Can be changed into buffs by completing unique quests.
+       _Encoragements: Fighting by your lonesome can be cool, but friends only make you stronger. Buffs the player when fighting near allies or tamed creatures, can turn into a debuff if allies die before you.
+
      + Lore, wisdom, perseption, moralty, fame and time can affect the choices avaliable for
      the player, events and quests that can be found and compleated. (This is more a personal
      wish than a promise. I sincerly don't know if my programing skills can achive this or
      ever will).
      
-   * Survivability
+   * Survivability and Combat Skill Trees
      + All PaC shares the same survival skill tree.
      + Survival skills will be atained by performing certain actions on diferent enviroments
      and situations. Or by paying a teacher to learn it and improve it (Be aware of scams)
@@ -70,6 +113,21 @@ game can be enjoyed on almost any PC (And later any plataform).
        _Adaptability
      + 4 PaC start with at least 1 survival skill on lvl 3, cooking, adaptability and navigation on lvl 1.
      And the last character will start with a special survival skill tree.
+     + Combat Skill Tree Will have the following skills (Will be adjusted)
+       _Lance and Pole Skill:
+       _Axes Skill:
+       _Knives Skill:
+       _Sword Skill:
+       _Dual Wielding Skill:
+       _Shield Skill:
+       _Parring Skill:
+       _Bow and Slingshot Skill
+       _Crossbow Skill:
+       _Gun Skill:
+       _Throwing skill:
+       _Roll/Dash Skill:
+       _
+       
 
     * Lore
       + Lore can be obtained through N diferent ways: Collecting scrolls and copying tablets or certain
@@ -92,7 +150,7 @@ game can be enjoyed on almost any PC (And later any plataform).
       + Side Quests: These will be avaliable on all communities for all PaC but not all can be recived
       depending on the character fame with that community.
       
-    * Community perseption
+    * Community perseption (Fame)
       + Will show the player their social status with each community and the benefits of those relations.
       + Might be a good idea to focus on just one though, choose wisely adventurer...
     
@@ -103,4 +161,4 @@ game can be enjoyed on almost any PC (And later any plataform).
    * Game graphics can be fun to play around with but we can't forget this moto: "To be played by anybody, graphics are secondary and fun is eternal", so they can and will be sacrificed if a low end gaming plataform can't execute the game in a playable state. Of coursr only after throwing all performance trics first so that it can be run.
    * Game should be able to run optimaly on both original release plataforms (Windows and Linux)
    * All stages of the game will be separated and tested and afterwards tested in conjuction (Including dungeons). If no bugs are detected for the full game, and ONLY THEN, a release date will be anounced and a marketing campain will be lunched.
-   * These maxims mast be upholded for all games developed by this studio.
+   * These maxims mast be upholded for all games developed by this studio (Fun in Plain Sight).
