@@ -95,3 +95,12 @@ game can be enjoyed on almost any PC (And later any plataform).
     * Community perseption
       + Will show the player their social status with each community and the benefits of those relations.
       + Might be a good idea to focus on just one though, choose wisely adventurer...
+    
+    * Saving
+      + Game saves can be done in 4 diferent ways: At the moment one achieves a main quest or community quests milestones. By performing one of the community rituals at midnight a game can be saved.
+ 
+ - Optimization
+   * Game graphics can be fun to play around with but we can't forget this moto: "To be played by anybody, graphics are secondary and fun is eternal", so they can and will be sacrificed if a low end gaming plataform can't execute the game in a playable state. Of coursr only after throwing all performance trics first so that it can be run.
+   * Game should be able to run optimaly on both original release plataforms (Windows and Linux)
+   * All stages of the game will be separated and tested and afterwards tested in conjuction (Including dungeons). If no bugs are detected for the full game, and ONLY THEN, a release date will be anounced and a marketing campain will be lunched.
+   * These maxims mast be upholded for all games developed by this studio.

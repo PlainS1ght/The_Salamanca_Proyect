@@ -12,8 +12,8 @@ SALAMANCA DEVELOPMENT BOARD
 	- [ ] Player controls
 	
 3. Art & Assets
-	- [ ] Character designs
-	- [ ] Environment/backgrounds
+	- [W] Character designs
+	- [W] Environment/backgrounds
 	- [ ] UI elements (menus, buttons)
 	- [ ] Animations
 
