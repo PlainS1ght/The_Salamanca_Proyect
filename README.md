@@ -9,10 +9,10 @@ and discover all off their posible endings.
 The development will have 3 main focuses, the story, game mechanics and optimization, so the
 game can be enjoyed on almost any PC (And later any plataform).
 
- - The story will be centered around the pre - colombine comunities ther relation with nature,
+ - The story will be centered around the pre - colombine comunities their relation with nature,
  spirits, the great profecy, and the corruption. Full with references to myth creatures of the
  south american imaginary and local fauna. The player depending on their character selection
- will be able to join any of the 3 forces in the story and take ofencive actions on all others.
+ will be able to join any of the 3 forces in the story and take offencive actions on all others.
 
  - Game mechanics:
 
