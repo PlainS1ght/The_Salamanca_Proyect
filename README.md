@@ -51,7 +51,7 @@ game can be enjoyed on almost any PC (And later any plataform).
      + PaC's have 3 types of stats: Primary, Secondary, Lore. Primary stats recive a bonus for every Lvl up, and a important bonus every 10 Lvls. Stats points will be given that can be asigned before saving. 1 for every Lvl and 2 for every 10Lvls. Secondary stats cannot be modified by the player directly, they are influenced by primary and lore stats, equipment, buffs and skills. Lore Stats can be trained or modified by the player choices.
 
      + Character Primary Stats:
-       1. Strength: This stat will affect the damage a character can inflict either barehanded, with throwables impact or with weapons. It also influences the weapons that can be wielded efectibly, equiping weapons that can't be handled due to heaviness will lead to realy low damage blows. \n
+       a. Strength: This stat will affect the damage a character can inflict either barehanded, with throwables impact or with weapons. It also influences the weapons that can be wielded efectibly, equiping weapons that can't be handled due to heaviness will lead to realy low damage blows. \n
        2. Constitution: This stat afects health, poison resistance, phisical resistance, stamina, hunger and thirst.
        3. Dexterity: This will afect damage for close range weapons, CQC Skills, and aim range for ranged weapons. Also afects critical strike chances
        4. Inteligence: This influences the ability to retain and understand lore. It also influences the correct use of elements for combat, increasing elemental damge and critical strikes chances.
