@@ -5,7 +5,7 @@ SALAMANCA DEVELOPMENT BOARD
 1. Game Concept & Design
 	- [D] Define game genre and style
 	- [D] Write a short game summary
-	- [D] List main features and mechanics
+	- [W] List main features and mechanics
 	- [ ] Create initial sketches or mockups
 
 2. Core Mechanics

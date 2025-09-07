@@ -66,28 +66,28 @@ game can be enjoyed on almost any PC (And later any plataform).
        5. Hunger
        6. Cold
        7. Heat
-       8. Critical Chance:
-       9. Taming chance:
-       10. Piercing Damage:
-       11. Slashing Damage: 
-       12. Blunt Damage:
-       13. Fire Damage:
-       14. Water Damage:
-       15. Poison Damage:
-       16. Light Damage: 
-       17. Corruption Damage:
-       18. Electrical Damage:
-       19. Sand Damage:
-       20. Piercing Resistance:
-       21. Slashing Resistance: 
-       22. Blunt Resistance:
-       23. Fire Resistance:
-       24. Water Resistance:
-       25. Poison Resistance:
-       26. Light Resistance: 
-       27. Corruption Resistance:
-       28. Electrical Resistance:
-       29. Sand Resistance:
+       8. Critical Chance
+       9. Taming chance
+       10. Piercing Damage
+       11. Slashing Damage 
+       12. Blunt Damage
+       13. Fire Damage
+       14. Water Damage
+       15. Poison Damage
+       16. Light Damage 
+       17. Corruption Damage
+       18. Electrical Damage
+       19. Sand Damage
+       20. Piercing Resistance
+       21. Slashing Resistance 
+       22. Blunt Resistance
+       23. Fire Resistance
+       24. Water Resistance
+       25. Poison Resistance
+       26. Light Resistance 
+       27. Corruption Resistance
+       28. Electrical Resistance
+       29. Sand Resistance
 
      + Character Lore Stats:
        1. Morality: Desperation or greed can lead to moraly deranged choices. The questions are "how far are you willing to go?" and "will you be able to stop?". Afects spiritual, and corruption afinity. Can triguer certain quests on all communities.
@@ -117,13 +117,14 @@ game can be enjoyed on almost any PC (And later any plataform).
      + Creating and filling a log book can improve chances of learning or upgrading survival
      skills.
      + The skills are as follows:
-       1. Botany
-       2. Fishing
-       3. Hunting
-       4. Alchemy
-       5. Navigation (Husbandry)
-       6. Cooking
-       7. Adaptability
+       1. Botany: To date, plants hold many wonders, be it cures, poisons or foods. Testing their effects on theeself is... not comendable nontheless. Allows the analysis of plants and eases detection of usefull ones. Gathering of materials is more skillfull hence more can be extracted without damaging it. Provides a bonus to perseption and intelligece. Allways remember rivers and animals cannot be found everywhere. Unlocks balms recipes in alchemy.
+       2. Fishing: Either a game of patience or skill a good day of fishing can keep a traveler well fed near any body of water. Can be done with a cane and bait but sharpened stick and skill can do the job too, just remember to allways be thankfull for the food. Unlocks some healing methods.
+       3. Hunting: Eather in packs or as a lone wolf humans have learned that food simply can't scape our determination. Can find tracks of previously hunted animals easly, and also enemies. Provides bonus to perseption, taming and husbandry.
+       4. Alchemy: The are no limits to knowdlege that can be obtained, though time is certainly limited, luckly you can learn how to make a few conjuctions or 2. Learn how to make balms, alcohol and hopefully some blackpowder without blowing your face. 
+       5. Navigation: Getting into the wilderness is nothing but the usual, getting out of there without GPS... well that's an achivement worth mentioning. Allows to draw area maps if you have the materials, and provides a certan edge adaptating and surviving extreme climates.
+       6. Cooking: There is food that fills the stomach and there is food that fills the soul. Make food that lasts longuer and taste even better. Some will provide buff's (Not stackable), an unique dishes can increase stats. Good luck achieving grandma's taste.
+       7. Butchering: Hunting and fishing is fine and all but the incorrect extraction of materials may ruin most of them. Improves the amount of materials that can be salvaged from animals and fishes
+       
      + 4 PaC start with at least 1 survival skill on lvl 3, cooking, adaptability and navigation on lvl 1.
      And the last character will start with a special survival skill tree.
      + Combat Skill Tree Will have the following skills (Will be adjusted)
