@@ -29,6 +29,13 @@
         + Personality:
         + Lore:
         + Base Stats:
+    
+    - Important Characters:
+      * Native Elders
+      * Priests
+      * Captains
+      * Christopher Columbus
+      * Sapa Inca Huayna Capac
 
  [ ]Story
  [ ]Enviroments
